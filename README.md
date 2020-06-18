@@ -11,6 +11,6 @@
 ### whether there are some relations bwtween the data of Aurin datasets and data of tweet keywords 
 ### can only run flaskPart.py to test the program! the address will be 127.0.0.1:5000
 
-#### The details of the program and the procedures to establish the program is written in the [report]()
-
+#### The details of the program deployement and the procedures to establish the program is written in the [report](https://github.com/CinderCC/UOM_Cluster_Cloud_Computing_2020_s1_groupproject/blob/master/CCC2020-Team2-report.pdf)
+#### The result of data analytics on the cloud is recorded at the fourth part (scenarios) of the report. 
 
