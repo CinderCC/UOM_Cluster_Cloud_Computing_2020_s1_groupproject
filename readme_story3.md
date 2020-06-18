@@ -13,4 +13,4 @@
   Add my MapReduce query part from download datasets from Aurin   
 3. flaskPart.py:   
   Add a GainData3part to display my results sorted by states.   
-  The URL is "/travis_app/gain_data/<region>".  
+  The URL is "/travis_app/gain_data/<region>".   
