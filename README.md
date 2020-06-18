@@ -1,5 +1,4 @@
-# ccc_2020
-
+# This is the group project of Cluster and Cloud computing in s1 of 2020  
 ## It is a nginx-uwsgi-flask framework program
 ### When the environment is well prepared, you can follow the steps to run
 1. run the tweets harvester program. It will create two databases and gain real time tweets
