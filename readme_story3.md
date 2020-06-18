@@ -2,7 +2,8 @@
 
 ## e.g. Area's population influcences the low income households 
 ##      Households in which state is experiencing greater financial pressure during the COVID-19  
-
+              
+              
 ### The MapReduce Query can return the total numbers of low income households in each state.
 ### The data of low income households is now sorted by states, but in database, their local government areas are also recorded.
 ### So if you want, you can also sort them by LGA. 
