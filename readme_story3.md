@@ -7,8 +7,8 @@
 ### The data of low income households is now sorted by states, but in database, their local government areas are also recorded.
 ### So if you want, you can also sort them by LGA. 
 1.tweets_harvester3.py：
-  Upload aurin and tweets data to the database. Twitter API is StreamingAPI. The
-  filter keywords are "financial pressure", "pressure" and "covid-19".
+    - Upload aurin and tweets data to the database. Twitter API is StreamingAPI. The
+    - filter keywords are "financial pressure", "pressure" and "covid-19".
 2.dataProcess.py
   Add my MapReduce query part from download datasets from Aurin
 3.flaskPart.py
