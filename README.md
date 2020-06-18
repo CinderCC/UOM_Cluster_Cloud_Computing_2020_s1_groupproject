@@ -11,4 +11,6 @@
 ### whether there are some relations bwtween the data of Aurin datasets and data of tweet keywords 
 ### can only run flaskPart.py to test the program! the address will be 127.0.0.1:5000
 
+#### The details of the program and the procedures to establish the program is written in the [report]()
+
 
